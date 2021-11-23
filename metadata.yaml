@@ -1,5 +1,8 @@
 _repo: Nick-Carter-Stories-No-120-160-Dec-26-1914-Oct-2-1915-The-Pressing-Peril-Dared-for-Los-Angele__66758
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66758-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Carter, Nicholas (House name)
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '53837'
     url: http://www.gutenberg.org/2009/agents/53837
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66758#Nick-Carter-Stories-No-120-160-Dec-26-1914-Oct-2-1915-The-Pressing-Peril-Dared-for-Los-Angele_
 gutenberg_issued: '2021-11-17'
 identifiers:
   gutenberg: '66758'
